@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_RM6785.mk
+    $(LOCAL_DIR)/pixelos_RM6785.mk
